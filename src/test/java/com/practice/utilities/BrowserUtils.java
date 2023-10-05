@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-public class BroswerUtils {
+public class BrowserUtils {
 
     /**
    This method will accept int (in seconds)
