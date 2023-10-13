@@ -7,4 +7,4 @@
   Edit Profile Settings
   Themes
   Configure notifications
-  Log out
+  Log out.
