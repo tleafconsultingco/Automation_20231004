@@ -45,8 +45,6 @@ public class Login_Page {
         logInButton.click();
         // verification that we logged
     }
-
-
     // Log in with a specific userType
     public void loginAsUserType(String userType) {
         String username = ConfigurationReader.getProperty(userType + "_username");

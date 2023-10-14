@@ -20,7 +20,6 @@ public class Login_StepDefs {
 
     @Then("user is on Home page with {string} in title")
     public void userIsOnHomePageWithInTitle(String title) {
-
         Assert.assertTrue("NO TITLE", Driver.getDriver().getTitle().contains(title));
         System.out.println("Successfully logged in");
     }
